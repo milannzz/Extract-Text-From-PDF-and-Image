@@ -1,1 +1,1 @@
-# Extract-Text-From-PDF-and-Image
+# Text extractor for PDfs and Images.
